@@ -16,6 +16,8 @@ one specific thing. Not only does this make things cleaner and clearer,
 but it also helps when using tools like `git bisect` to track down bugs,
 as well as when reverting individual changes.
 
+in the name of allah
+
 ## The list
 
 | Text | Image | Shortcode | When to use it |
